@@ -36,7 +36,7 @@ const App = () => {
                         }        
 
                         {
-                            /* Add AllocationForm component here under */
+                            /* Add ?? AllocationForm component here under */
                         }        
 
                 </div>
